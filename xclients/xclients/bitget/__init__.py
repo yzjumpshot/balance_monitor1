@@ -1,0 +1,3 @@
+from .account_ws_wrapper import BitgetAccountWssWrapper
+from .market_ws_wrapper import BitgetMarketWssWrapper
+from .rest_wrapper import BitgetRestWrapper
